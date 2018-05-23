@@ -4,8 +4,8 @@
 #
 ################################################################################
 
-MIDAS_UTIL_VERSION = 2eca13712acffa380989ee36a668845b7d8c2e3f
-MIDAS_UTIL_SITE = $(call github,fourkbomb,midas-util,$(MIDAS_UTIL_VERSION))
+MIDAS_UTIL_VERSION = a2b18f5c6ddde93fc20ad9170a91db3541f579be
+MIDAS_UTIL_SITE = $(call github,PoisonNinja,midas-util,$(MIDAS_UTIL_VERSION))
 MIDAS_UTIL_LICENSE = GPL-3.0+
 MIDAS_UTIL_LICENSE_FILES = .gitignore
 MIDAS_UTIL_DEPENDENCIES = dtc
