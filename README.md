@@ -1,3 +1,4 @@
+### Forked from fourkbomb's to remove dependency on u-boot since I don't want to disassemble my phone, but otherwise kept in sync with upstream.
 # buildroot-external-midas
 
 This is a [BR2_EXTERNAL](https://buildroot.org/downloads/manual/manual.html#outside-br-custom) tree for [Buildroot](https://buildroot.org/) which contains stuff needed
